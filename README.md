@@ -49,4 +49,4 @@ In conclusion, designing a multiplayer card game that supports multiple players 
 5. Run the Main class to start the application.
 6. The game can be played with a minimum of 2 players and a maximum of 4 players.
 7. Input the desired number of players during the game's start.
-8. The application runs on any environment that supports Java 1.8 or above.
+8. The application runs on any environment that supports Java1.8 or above.
